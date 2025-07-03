@@ -1,5 +1,5 @@
 # FSRU
-This project is cloned from [here](https://github.com/dm4m/FSRU.git)!!
+This project is cloned from [here](https://github.com/dm4m/FSRU.git)!!  
 This is the PyTorch implementation of AAAI 2024 paper "Frequency Spectrum is More Effective 
 for Multimodal Representation and Fusion: A Multimodal Spectrum Rumor Detector".
 
